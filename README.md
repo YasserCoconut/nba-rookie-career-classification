@@ -50,7 +50,7 @@ A backup copy of the datasets is also included in the `BackupDatasets` folder.
 ## Project Structure
 
 ```text
-Project/
+nba-rookie-career-classification/
 │
 ├── Codes&datasets/
 │   ├── 0)InsertingMissingValues&dups.py
