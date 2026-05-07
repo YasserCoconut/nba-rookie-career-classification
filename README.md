@@ -77,7 +77,6 @@ nba-rookie-career-classification/
 ├── LogisticRegression&SVM(linear).png
 ├── SVM Accuracy for different C values(non-linear).png
 ├── TrainingAccuracy&TestAccuracy for emsemble.png
-└── 2023_FA_BCS_304_Project_Rubric.docx
 ```
 
 ## How to Run the Project
