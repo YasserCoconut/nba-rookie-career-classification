@@ -176,7 +176,6 @@ Future improvements could include:
 - Adding confusion matrices and ROC curves
 - Improving reproducibility by setting random seeds in all scripts
 - Organizing scripts into a cleaner pipeline or notebook format
-- Adding a `requirements.txt` file for easier setup
 
 ## Author
 
