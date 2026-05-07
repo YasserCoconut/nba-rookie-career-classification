@@ -1,0 +1,2 @@
+If you want to run the codes to test for yourself, they are numbered 0 to 6... run them in that order.
+After you run them, the datasets will be changed which will affect the charts and graphs and DT that will be used for the report so there is a backup file called "BackupDatasets" just copy the files there and paste it in the "Codes&datasets" folder and choose the "replace" option to replace the datasets... if you dont want to mess them up just dont run code 0 and code 1.
